@@ -6,7 +6,6 @@ Kelas : TI.22.C.9
 
 
 # LATIHAN 1
-Untuk saat ini saya akan mencoba untuk mengerjakan Latihan 1 seperti gambar dibawah ini terlebih dahulu.
 
 ![Lat1](https://user-images.githubusercontent.com/72906579/98434023-757f6f80-20fe-11eb-84c8-f932fae7a155.png)
 

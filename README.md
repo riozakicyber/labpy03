@@ -1,8 +1,11 @@
 Nama : Rio Rinto Saki
+
 NIM : 312210715
+
 Kelas : TI.22.C.9
-_________________________________________________________________________________________
-## LATIHAN 1
+
+
+# LATIHAN 1
 Untuk saat ini saya akan mencoba untuk mengerjakan Latihan 1 seperti gambar dibawah ini terlebih dahulu.
 
 ![Lat1](https://user-images.githubusercontent.com/72906579/98434023-757f6f80-20fe-11eb-84c8-f932fae7a155.png)
@@ -24,8 +27,10 @@ for i in range(jum):
 Maka hasil yang didapat dari syntax tersebut adalah
 
 ![Jawaban Lat1](https://user-images.githubusercontent.com/72906579/98442996-17bd4880-213b-11eb-85c9-020f57559768.png)
-_______________________________________________________________________________________
-## LATIHAN 2
+
+
+
+# LATIHAN 2
 Setelahnya saya akan mencoba untuk mengerjakan Latihan selanjutnya yaitu Latihan 2.
 
 ![Lat2](https://user-images.githubusercontent.com/72906579/98442065-1557f000-2135-11eb-961c-530168029224.png)
